@@ -1,3 +1,3 @@
-# wudiLabs996
+# cdLab996
 
 consider things from every angle.
