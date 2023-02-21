@@ -2,9 +2,10 @@
 
 consider things from every angle.
 
-- Find me: [linktr](https://linktr.ee/wuchendi)
+- [linktr](https://linktr.ee/wuchendi)
 
-<!-- ![GitHub Org's stars](https://img.shields.io/github/stars/WuChenDi?style=social)
+<!-- - Find me: [linktr](https://linktr.ee/wuchendi)
+![GitHub Org's stars](https://img.shields.io/github/stars/WuChenDi?style=social)
 
 Find me: [telegram](https://t.me/wuchendi) / Discord(wudi#4647) -->
 
