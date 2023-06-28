@@ -2,7 +2,9 @@
 
 Consider things from every angle.
 
-tips: 好像最近有点闲，有需求代码需要帮忙不，加v：wcd996194720，备注下：cdlab996
+tips: 好像最近有点闲，有需求代码需要帮忙不
+
+加v：wcd996194720，备注下：cdlab996
 
 ## 🚀 Projects
 
