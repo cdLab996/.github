@@ -4,8 +4,6 @@ Consider things from every angle.
 
 tips: 好像最近有点闲，有需求代码需要帮忙不，开源社区维护也行
 
-加v：wcd996194720，备注下：cdlab996
-
 ## 🚀 Projects
 
 - [Lowcode](https://github.com/orgs/cdLab996/projects/1/views/1)
