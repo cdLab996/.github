@@ -1,6 +1,6 @@
 # Hey there，Welcome to cdLab996! 👋
 
-Consider things from every angle.
+<!-- Consider things from every angle. -->
 
 tips: 好像最近有点闲，有需求代码需要帮忙不，开源社区维护也行
 
