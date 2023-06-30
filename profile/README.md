@@ -10,6 +10,9 @@ You can find more information about me at [this link](https://linktr.ee/wuchendi
 
 - [Lowcode](https://github.com/orgs/cdLab996/projects/1/views/1)
 
+  - Vue 3: [https://lowcode-engine-demo-vue.vercel.app/](https://lowcode-engine-demo-vue.vercel.app/)
+  - Vue 2.7: [https://lowcode-engine-demo-vue2-7.vercel.app/](https://lowcode-engine-demo-vue2-7.vercel.app/)
+
 | Package                                                                                                                                    | Description                                            | Latest                                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [@cdlab996/create-lowcode2.7](https://github.com/cdLab996/lowcode-engine-tools2.7/blob/main/packages/create-lowcode)                       | 🔨 Scaffold tool for initializing Lowcode projects      | [![npm version](https://img.shields.io/npm/v/@cdlab996/create-lowcode2.7?logo=npm)](https://www.npmjs.com/package/@cdlab996/create-lowcode2.7)                                 |
