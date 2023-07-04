@@ -2,7 +2,9 @@
 
 <!-- Consider things from every angle. -->
 
-TIPS: If you require any coding assistance, whether it is related to open-source community maintenance or any other aspect, feel free to contact me. I am currently available and have some spare time. 
+TIPS: 
+
+If you require any coding assistance, whether it is related to open-source community maintenance or any other aspect, feel free to contact me. I am currently available and have some spare time. 
 
 You can find more information about me at [this link](https://linktr.ee/wuchendi).
 
