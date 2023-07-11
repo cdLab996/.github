@@ -2,6 +2,16 @@
 
 <!-- Consider things from every angle. -->
 
+<!-- ## About me
+
+Software Engineer 🖥️ working w/ JS, TS, Node.js, React, Vue
+
+嗨，我是一位很懒的高级前端工程师。
+
+- 语言：JavaScript TypeScript Nodejs
+- 框架：Vue React NextJS NuxtJS Prisma GraphQL
+- 技能：Fullstack-DEV Management -->
+
 TIPS: 
 
 If you require any coding assistance, whether it is related to open-source community maintenance or any other aspect, feel free to contact me. I am currently available and have some spare time. 
