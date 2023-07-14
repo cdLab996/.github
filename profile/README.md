@@ -2,6 +2,26 @@
 
 <!-- Consider things from every angle. -->
 
+## About
+
+I'm a laid-back yet experienced senior front-end engineer.
+
+- Languages: JavaScript, TypeScript, Node.js
+- Frameworks: Vue, React, NextJs, NuxtJs
+- Skills: Full-stack development, Team Leader/Management
+
+---
+
+TIPS:
+
+If you require any coding-related assistance, whether it's related to open-source community maintenance or any other aspect, please feel free to reach out to me.
+
+Furthermore, as I am actively seeking a Front-end job opportunity, I would genuinely appreciate it if you could contact me if you know of any suitable positions.
+
+You can find more information about me at this [link](https://linktr.ee/wuchendi).
+
+Thank you!
+
 <!-- ## About me
 
 Software Engineer 🖥️ working w/ JS, TS, Node.js, React, Vue
@@ -10,13 +30,10 @@ Software Engineer 🖥️ working w/ JS, TS, Node.js, React, Vue
 
 - 语言：JavaScript TypeScript Nodejs
 - 框架：Vue React NextJS NuxtJS Prisma GraphQL
-- 技能：Fullstack-DEV Management -->
+- 技能：Fullstack-DEV Management
 
-TIPS: 
+If you require any coding assistance, whether it is related to open-source community maintenance or any other aspect, feel free to contact me. I am currently available and have some spare time.  -->
 
-If you require any coding assistance, whether it is related to open-source community maintenance or any other aspect, feel free to contact me. I am currently available and have some spare time. 
-
-You can find more information about me at [this link](https://linktr.ee/wuchendi).
 
 ## 🚀 Projects
 
