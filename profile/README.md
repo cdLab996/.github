@@ -7,8 +7,8 @@
 I'm a laid-back yet experienced senior front-end engineer.
 
 - Languages: JavaScript, TypeScript, Node.js
-- Frameworks: Vue, React, NextJs, NuxtJs
-- Skills: Full-stack development, Team Leader/Management
+- Frameworks: Vue, React, NextJs
+- Skills: Full-stack development, TeamLeader
 
 ---
 
