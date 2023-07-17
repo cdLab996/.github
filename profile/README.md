@@ -2,6 +2,8 @@
 
 <!-- Consider things from every angle. -->
 
+## About
+
 I'm a laid-back yet experienced senior front-end engineer.
 
 🖥️ working w/ JS, TS, Node.js, React, Vue
