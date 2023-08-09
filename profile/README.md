@@ -8,14 +8,14 @@ I'm a laid-back yet experienced senior front-end engineer.
 
 🖥️ working w/ JS, TS, Node.js, React, Vue
 
-
 ## 🚀 Projects
 
 ### [Lowcode](https://github.com/orgs/cdLab996/projects/1/views/1)
 
 - Vue 3: [https://lowcode-engine-demo-vue.vercel.app/](https://lowcode-engine-demo-vue.vercel.app/)
 - Vue 2.7: [https://lowcode-engine-demo-vue2-7.vercel.app/](https://lowcode-engine-demo-vue2-7.vercel.app/)
-- Vue 2.7 Examples: [https://lowcode-engine-demo-vue2-7-examples.vercel.app/](https://lowcode-engine-demo-vue2-7-examples.vercel.app/)
+- Vue 2.7
+  Examples: [https://lowcode-engine-demo-vue2-7-examples.vercel.app/](https://lowcode-engine-demo-vue2-7-examples.vercel.app/)
 
 | Package                                                                                                                                             | Description                                                                                  | Latest                                                                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -47,5 +47,16 @@ I'm a laid-back yet experienced senior front-end engineer.
 ### [Web3](https://github.com/orgs/cdLab996/projects/2)
 
 xxx
+
+### Other
+
+- https://coupon-styles.vercel.app/
+- https://vue-component-wuchendi.vercel.app/
+- https://react-components-wuchendi.vercel.app/
+- https://nextjs-tailwindcss-examples.vercel.app/
+- https://vite-vue2-7-template.vercel.app/
+- https://vite-vue2-template.vercel.app/
+- https://wuchendi.github.io/skuPathFinder/
+- https://wuchendi.github.io/vue-pages/
 
 <div><img height="20" src="https://komarev.com/ghpvc/?username=cdLab996"></div>
