@@ -50,6 +50,8 @@ xxx
 
 ### Other
 
+- https://notes-wuchendi.vercel.app/
+- https://cdlab996-website.vercel.app/ (http://wudi.rf.gd/)
 - https://coupon-styles.vercel.app/
 - https://vue-component-wuchendi.vercel.app/
 - https://react-components-wuchendi.vercel.app/
