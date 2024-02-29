@@ -66,9 +66,7 @@ I'm a laid-back yet experienced senior front-end engineer.
 DApp
 
 - ETH: [https://online-judge-with-wuchendi.vercel.app/](https://online-judge-with-wuchendi.vercel.app/)
--
-
-LINK: [https://online-judge-with-wuchendi-git-feature-link-wuchendi.vercel.app/](https://online-judge-with-wuchendi-git-feature-link-wuchendi.vercel.app/)
+- LINK: [https://online-judge-with-wuchendi-git-feature-link-wuchendi.vercel.app/](https://online-judge-with-wuchendi-git-feature-link-wuchendi.vercel.app/)
 
 xxx
 
