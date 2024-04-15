@@ -2,7 +2,7 @@
 
 <!-- Consider things from every angle. -->
 
-## About
+## About me
 
 I'm a laid-back yet experienced senior front-end engineer.
 
