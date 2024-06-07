@@ -57,12 +57,13 @@ I'm a laid-back yet experienced senior front-end engineer.
 
 ### Toolkit
 
-| Package                                                                                                                    | Description         | Latest                                                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Package                                                                                                                    | Description          | Latest                                                                                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [@cdlab996/eslint-config-ts](https://github.com/WuChenDi/eslint-config-monorepo/tree/main/packages/eslint-config-ts)       | 🔨 Eslint TypeScript | [![npm version](https://img.shields.io/npm/v/@cdlab996/eslint-config-ts?logo=npm)](https://www.npmjs.com/package/@cdlab996/eslint-config-ts)       |
 | [@cdlab996/eslint-config-next](https://github.com/WuChenDi/eslint-config-monorepo/tree/main/packages/eslint-config-next)   | 🔨 Eslint Nextjs     | [![npm version](https://img.shields.io/npm/v/@cdlab996/eslint-config-next?logo=npm)](https://www.npmjs.com/package/@cdlab996/eslint-config-next)   |
 | [@cdlab996/eslint-config-react](https://github.com/WuChenDi/eslint-config-monorepo/tree/main/packages/eslint-config-react) | 🔨 Eslint React      | [![npm version](https://img.shields.io/npm/v/@cdlab996/eslint-config-react?logo=npm)](https://www.npmjs.com/package/@cdlab996/eslint-config-react) |
 | [@cdlab996/eslint-config-vue](https://github.com/WuChenDi/eslint-config-monorepo/tree/main/packages/eslint-config-vue)     | 🔨 Eslint Vue        | [![npm version](https://img.shields.io/npm/v/@cdlab996/eslint-config-vue?logo=npm)](https://www.npmjs.com/package/@cdlab996/eslint-config-vue)     |
+| [@cdlab996/eslint-config-vue2](https://github.com/WuChenDi/eslint-config-monorepo/tree/main/packages/eslint-config-vue2)   | 🔨 Eslint Vue2       | [![npm version](https://img.shields.io/npm/v/@cdlab996/eslint-config-vue2?logo=npm)](https://www.npmjs.com/package/@cdlab996/eslint-config-vue2)   |
 | [@cdlab996/prettier-config](https://github.com/WuChenDi/eslint-config-monorepo/tree/main/packages/prettier-config)         | 🔨 prettier          | [![npm version](https://img.shields.io/npm/v/@cdlab996/prettier-config?logo=npm)](https://www.npmjs.com/package/@cdlab996/prettier-config)         |
 
 ### [Web3](https://github.com/orgs/cdLab996/projects/2)
