@@ -85,7 +85,7 @@ xxx
 - https://nextjs-tailwindcss-examples.vercel.app/
 - https://vite-vue2-7-template.vercel.app/
 - https://vite-vue2-template.vercel.app/
-- https://wuchendi.github.io/skuPathFinder/
+- https://sku-path-finder.vercel.app/
 - https://wuchendi.github.io/vue-pages/
 - https://wuchendi.gitee.io/animate/
 
