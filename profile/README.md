@@ -24,7 +24,7 @@ I'm a laid-back yet experienced senior front-end engineer.
 | [@cdlab996/lowcode-hooks2.7](https://github.com/cdLab996/lowcode-engine-vue2.7/tree/main/packages/hooks)                                   | 🏗️ Hooks for renderer/simulator                   | [![npm version](https://img.shields.io/npm/v/@cdlab996/lowcode-hooks2.7?logo=npm)](https://www.npmjs.com/package/@cdlab996/lowcode-hooks2.7)                                   |
 | [@cdlab996/lowcode-utils2.7](https://github.com/cdLab996/lowcode-engine-vue2.7/tree/main/packages/utils)                                   | 🏗️ Utility methods for renderer/simulator         | [![npm version](https://img.shields.io/npm/v/@cdlab996/lowcode-utils2.7?logo=npm)](https://www.npmjs.com/package/@cdlab996/lowcode-utils2.7)                                   |
 | [@cdlab996/lowcode-vue-renderer2.7](https://github.com/cdLab996/lowcode-engine-vue2.7/tree/main/packages/vue-renderer)                     | 🏗️ lowcode renderer using Vue2.7 framework        | [![npm version](https://img.shields.io/npm/v/@cdlab996/lowcode-vue-renderer2.7?logo=npm)](https://www.npmjs.com/package/@cdlab996/lowcode-vue-renderer2.7)                     |
-| [@cdlab996/lowcode-vue-simulator-renderer2.7](https://github.com/cdLab996/lowcode-engine-vue2.7/tree/main/packages/vue-simulator-renderer) | 🏗️ Lowcode simulator renderer using Vue2.7 engine | [![npm version](https://img.shields.io/npm/v/@cdlab996/lowcode-vue-simulator-renderer2.7?logo=npm)](https://www.npmjs.com/package/@cdlab996/lowcode-vue-simulator-renderer2.7) |
+| [@cdlab996/lowcode-vue-simulator-renderer2.7](https://github.com/cdLab996/lowcode-engine-vue2.7/tree/main/packages/vue-simulator-renderer) | 🏗️ lowcode simulator renderer using Vue2.7 engine | [![npm version](https://img.shields.io/npm/v/@cdlab996/lowcode-vue-simulator-renderer2.7?logo=npm)](https://www.npmjs.com/package/@cdlab996/lowcode-vue-simulator-renderer2.7) |
 
 #### 🧩 Plugins & Extensions
 
@@ -77,7 +77,7 @@ xxx
 
 ### Other
 
-- https://notes-wudi.vercel.app/
+- https://notes-wudi.pages.dev/ (https://notes-wudi.vercel.app/)
 - https://cdlab996-website.vercel.app/ (http://wudi.rf.gd/)
 - https://coupon-styles.vercel.app/
 - https://vue-component-wuchendi.vercel.app/
