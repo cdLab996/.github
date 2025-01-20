@@ -80,6 +80,7 @@ xxx
 - https://notes-wudi.pages.dev/ (https://notes-wudi.vercel.app/)
 - https://cdlab996-website.vercel.app/ (http://wudi.rf.gd/)
 - https://ddcase.pages.dev/ (https://ddcase.vercel.app/)
+- https://url-ow.pages.dev/ (https://web.a.app/)
 - https://webrtc-wudi.vercel.app/
 - https://coupon-styles.vercel.app/
 - https://vue-component-wuchendi.vercel.app/
