@@ -86,6 +86,9 @@ xxx
 
 - https://notes-wudi.pages.dev/ (https://notes-wudi.vercel.app/)
 - https://cdlab996-website.vercel.app/ (http://wudi.rf.gd/)
+- https://learning-threejs.pages.dev/
+- https://knowledge-card.pages.dev/
+- https://ccbikai-sink.pages.dev/
 - https://ddcase.pages.dev/ (https://ddcase.vercel.app/)
 - https://url-ow.pages.dev/ (https://web.a.app/)
 - https://webrtc-wudi.vercel.app/
