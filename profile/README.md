@@ -75,12 +75,14 @@ I'm a laid-back yet experienced senior front-end engineer.
 - https://gid-dapp.pages.dev/
 - https://faucet.gotabit.dev/
 
-#### DApp 
+#### DApp
 
 - ETH: [https://online-judge-with-wuchendi.vercel.app/](https://online-judge-with-wuchendi.vercel.app/)
 - LINK: [https://online-judge-with-wuchendi-git-feature-link-wuchendi.vercel.app/](https://online-judge-with-wuchendi-git-feature-link-wuchendi.vercel.app/)
 
-xxx
+### Games
+
+- Baccarat: [https://tg-baccarat.pages.dev/](https://tg-baccarat.pages.dev/)
 
 ### Other
 
@@ -88,6 +90,7 @@ xxx
 - https://cdlab996-website.vercel.app/ (http://wudi.rf.gd/)
 - https://learning-threejs.pages.dev/
 - https://knowledge-card.pages.dev/
+- https://image-gallery-wudi.vercel.app/
 - https://ccbikai-sink.pages.dev/
 - https://ddcase.pages.dev/ (https://ddcase.vercel.app/)
 - https://url-ow.pages.dev/ (https://web.a.app/)
