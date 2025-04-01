@@ -1,12 +1,18 @@
 # Hey there，Welcome to cdLab996! 👋
 
-<!-- Consider things from every angle. -->
+A solutions-driven senior frontend engineer focused on building robust, scalable web applications.
+
+Here are some of my open-source projects and personal sites - welcome to explore!
+
+<!-- Consider things from every angle.
 
 ## About me
 
 I'm a laid-back yet experienced senior front-end engineer.
 
 🖥️ working w/ JS, TS, Node.js, React, Vue
+
+🖥️ working w/ JS, TS, Node.js, React/Next.js, Vue/Nuxt.js, Native/Flutter, miniProgram(Taro/Uni-app/Telegram), Linux -->
 
 ## 🚀 Projects
 
@@ -72,6 +78,7 @@ I'm a laid-back yet experienced senior front-end engineer.
 
 - https://gotabit.io/
 - https://www.g.io/
+- https://nfts.gotabit.io/
 - https://gid-dapp.pages.dev/
 - https://faucet.gotabit.dev/
 
