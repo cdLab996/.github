@@ -94,10 +94,11 @@ I'm a laid-back yet experienced senior front-end engineer.
 ### Other
 
 - https://notes-wudi.pages.dev/ (https://notes-wudi.vercel.app/)
-- https://cdlab996-website.vercel.app/ (http://wudi.rf.gd/)
+- https://cdlab996.vercel.app/
+<!-- - https://cdlab996-website.vercel.app/ (http://wudi.rf.gd/) -->
+- https://gallery-wudi.vercel.app/
 - https://learning-threejs.pages.dev/
 - https://knowledge-card.pages.dev/
-- https://image-gallery-wudi.vercel.app/
 - https://ccbikai-sink.pages.dev/
 - https://ddcase.pages.dev/ (https://ddcase.vercel.app/)
 - https://url-ow.pages.dev/ (https://web.a.app/)
