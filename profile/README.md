@@ -100,6 +100,7 @@ I'm a laid-back yet experienced senior front-end engineer.
 
 ---
 
+- https://webcodecs-lab.pages.dev/
 - https://learning-threejs.pages.dev/
 - https://knowledge-card.pages.dev/
 - https://ccbikai-sink.pages.dev/
