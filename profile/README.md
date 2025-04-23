@@ -16,6 +16,13 @@ I'm a laid-back yet experienced senior front-end engineer.
 
 ## 🚀 Projects
 
+### oneself
+
+<!-- - https://cdlab996-website.vercel.app/ (http://wudi.rf.gd/) -->
+- https://notes-wudi.pages.dev/ (https://notes-wudi.vercel.app/)
+- https://cdlab996.vercel.app/
+- https://gallery-wudi.vercel.app/
+
 ### [Lowcode](https://github.com/orgs/cdLab996/projects/1/views/1)
 
 - Vue 3: [https://lowcode-engine-demo-vue.vercel.app/](https://lowcode-engine-demo-vue.vercel.app/)
@@ -87,18 +94,15 @@ I'm a laid-back yet experienced senior front-end engineer.
 - ETH: [https://online-judge-with-wuchendi.vercel.app/](https://online-judge-with-wuchendi.vercel.app/)
 - LINK: [https://online-judge-with-wuchendi-git-feature-link-wuchendi.vercel.app/](https://online-judge-with-wuchendi-git-feature-link-wuchendi.vercel.app/)
 
+### Video
+
+- DDTV(private): [https://ddtv.pages.dev/](https://ddtv.pages.dev/)
+
 ### Games
 
 - Baccarat: [https://tg-baccarat.pages.dev/](https://tg-baccarat.pages.dev/)
 
 ### Other
-
-<!-- - https://cdlab996-website.vercel.app/ (http://wudi.rf.gd/) -->
-- https://notes-wudi.pages.dev/ (https://notes-wudi.vercel.app/)
-- https://cdlab996.vercel.app/
-- https://gallery-wudi.vercel.app/
-
----
 
 - https://webcodecs-lab.pages.dev/
 - https://learning-threejs.pages.dev/
