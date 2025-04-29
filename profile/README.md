@@ -16,12 +16,13 @@ I'm a laid-back yet experienced senior front-end engineer.
 
 ## 🚀 Projects
 
-### oneself
+### ONESELF
 
 <!-- - https://cdlab996-website.vercel.app/ (http://wudi.rf.gd/) -->
-- https://notes-wudi.pages.dev/ (https://notes-wudi.vercel.app/)
-- https://cdlab996.vercel.app/
-- https://gallery-wudi.vercel.app/
+- BLOGS: <https://notes-wudi.pages.dev/> (<https://notes-wudi.vercel.app/>)
+- cdlab996: <https://cdlab996.vercel.app/>
+- Image Gallery: <https://gallery-wudi.vercel.app/>
+- AI - CCTTS(Text to Speech): <https://cctts.pages.dev/>
 
 ### [Lowcode](https://github.com/orgs/cdLab996/projects/1/views/1)
 
