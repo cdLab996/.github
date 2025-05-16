@@ -25,6 +25,12 @@ I'm a laid-back yet experienced senior front-end engineer.
 - AI - Clearify: <https://clearify.pages.dev/>
 - AI - CCTTS(Text to Speech): <https://cctts.pages.dev/>
 
+### AI
+
+#### Models
+
+- MODNet: <https://huggingface.co/wuchendi/MODNet/>
+
 ### [Lowcode](https://github.com/orgs/cdLab996/projects/1/views/1)
 
 - Vue 3: [https://lowcode-engine-demo-vue.vercel.app/](https://lowcode-engine-demo-vue.vercel.app/)
