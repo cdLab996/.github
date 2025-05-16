@@ -1,4 +1,4 @@
-# Hey there，Welcome to cdLab996! 👋
+# 👋 Hey there，Welcome to cdLab996
 
 A solutions-driven senior frontend engineer focused on building robust, scalable web applications.
 
@@ -14,35 +14,35 @@ I'm a laid-back yet experienced senior front-end engineer.
 
 🖥️ working w/ JS, TS, Node.js, React/Next.js, Vue/Nuxt.js, Native/Flutter, miniProgram(Taro/Uni-app/Telegram), Linux -->
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### ONESELF
+### 🧱 ONESELF
 
 <!-- - https://cdlab996-website.vercel.app/ (http://wudi.rf.gd/) -->
 - BLOGS: <https://notes-wudi.pages.dev/> (<https://notes-wudi.vercel.app/>)
 - cdlab996: <https://cdlab996.vercel.app/>
 - Image Gallery: <https://gallery-wudi.vercel.app/>
 
-### AI
+### 🤖 AI
 
-#### Models
+#### 🔬 Models
 
 - MODNet: <https://huggingface.co/wuchendi/MODNet/>
 
-#### Application
+#### 🧠 Application
 
 - AI - Clearify: <https://clearify.pages.dev/>
 - AI - CCTTS(Text to Speech): <https://cctts.pages.dev/>
 
-### Video
+### 🎥 Video
 
 - DDTV(private): [https://ddtv.pages.dev/](https://ddtv.pages.dev/)
 
-### Games
+### 🎮 Games
 
 - Baccarat: [https://tg-baccarat.pages.dev/](https://tg-baccarat.pages.dev/)
 
-### [Lowcode](https://github.com/orgs/cdLab996/projects/1/views/1)
+### [🧩 Lowcode](https://github.com/orgs/cdLab996/projects/1/views/1)
 
 - Vue 3: [https://lowcode-engine-demo-vue.vercel.app/](https://lowcode-engine-demo-vue.vercel.app/)
 - Vue 2.7: [https://lowcode-engine-demo-vue2-7.vercel.app/](https://lowcode-engine-demo-vue2-7.vercel.app/)
@@ -87,7 +87,7 @@ I'm a laid-back yet experienced senior front-end engineer.
 | [@cdlab996/antd-lowcode-materials2.7](https://github.com/cdLab996/lowcode-engine-materials-vue2.7/tree/main/packages/antd)           | 🎨 Ant Design Vue(1.7.8) Materials for Vue2.7 | [![npm version](https://img.shields.io/npm/v/@cdlab996/antd-lowcode-materials2.7?logo=npm)](https://www.npmjs.com/package/@cdlab996/antd-lowcode-materials2.7)           |
 | [@cdlab996/vant-lowcode-materials2.7](https://github.com/cdLab996/lowcode-engine-materials-vue2.7/tree/main/packages/vant)           | 🎨 Vant(2.12.54) Materials for Vue2.7         | [![npm version](https://img.shields.io/npm/v/@cdlab996/vant-lowcode-materials2.7?logo=npm)](https://www.npmjs.com/package/@cdlab996/vant-lowcode-materials2.7)           |
 
-### Toolkit
+### 🧰 Toolkit
 
 | Package                                                                                                                    | Description          | Latest                                                                                                                                             |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -98,9 +98,9 @@ I'm a laid-back yet experienced senior front-end engineer.
 | [@cdlab996/eslint-config-vue2](https://github.com/WuChenDi/eslint-config-monorepo/tree/main/packages/eslint-config-vue2)   | 🔨 Eslint Vue2       | [![npm version](https://img.shields.io/npm/v/@cdlab996/eslint-config-vue2?logo=npm)](https://www.npmjs.com/package/@cdlab996/eslint-config-vue2)   |
 | [@cdlab996/prettier-config](https://github.com/WuChenDi/eslint-config-monorepo/tree/main/packages/prettier-config)         | 🔨 prettier          | [![npm version](https://img.shields.io/npm/v/@cdlab996/prettier-config?logo=npm)](https://www.npmjs.com/package/@cdlab996/prettier-config)         |
 
-### [Web3](https://github.com/orgs/cdLab996/projects/2)
+### [🧬 Web3](https://github.com/orgs/cdLab996/projects/2)
 
-#### GotaBit
+#### 🔗 GotaBit
 
 - https://gotabit.io/
 - https://www.g.io/
@@ -108,12 +108,12 @@ I'm a laid-back yet experienced senior front-end engineer.
 - https://gid-dapp.pages.dev/
 - https://faucet.gotabit.dev/
 
-#### DApp
+#### 💠 DApp
 
 - ETH: [https://online-judge-with-wuchendi.vercel.app/](https://online-judge-with-wuchendi.vercel.app/)
 - LINK: [https://online-judge-with-wuchendi-git-feature-link-wuchendi.vercel.app/](https://online-judge-with-wuchendi-git-feature-link-wuchendi.vercel.app/)
 
-### Other
+### 📦 Other
 
 - https://webcodecs-lab.pages.dev/
 - https://learning-threejs.pages.dev/
