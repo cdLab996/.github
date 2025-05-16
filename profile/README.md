@@ -14,7 +14,7 @@ I'm a laid-back yet experienced senior front-end engineer.
 
 🖥️ working w/ JS, TS, Node.js, React/Next.js, Vue/Nuxt.js, Native/Flutter, miniProgram(Taro/Uni-app/Telegram), Linux -->
 
-## 🚀 Projects
+## Featured Projects
 
 ### ONESELF
 
@@ -22,14 +22,25 @@ I'm a laid-back yet experienced senior front-end engineer.
 - BLOGS: <https://notes-wudi.pages.dev/> (<https://notes-wudi.vercel.app/>)
 - cdlab996: <https://cdlab996.vercel.app/>
 - Image Gallery: <https://gallery-wudi.vercel.app/>
-- AI - Clearify: <https://clearify.pages.dev/>
-- AI - CCTTS(Text to Speech): <https://cctts.pages.dev/>
 
 ### AI
 
 #### Models
 
 - MODNet: <https://huggingface.co/wuchendi/MODNet/>
+
+#### Application
+
+- AI - Clearify: <https://clearify.pages.dev/>
+- AI - CCTTS(Text to Speech): <https://cctts.pages.dev/>
+
+### Video
+
+- DDTV(private): [https://ddtv.pages.dev/](https://ddtv.pages.dev/)
+
+### Games
+
+- Baccarat: [https://tg-baccarat.pages.dev/](https://tg-baccarat.pages.dev/)
 
 ### [Lowcode](https://github.com/orgs/cdLab996/projects/1/views/1)
 
@@ -101,14 +112,6 @@ I'm a laid-back yet experienced senior front-end engineer.
 
 - ETH: [https://online-judge-with-wuchendi.vercel.app/](https://online-judge-with-wuchendi.vercel.app/)
 - LINK: [https://online-judge-with-wuchendi-git-feature-link-wuchendi.vercel.app/](https://online-judge-with-wuchendi-git-feature-link-wuchendi.vercel.app/)
-
-### Video
-
-- DDTV(private): [https://ddtv.pages.dev/](https://ddtv.pages.dev/)
-
-### Games
-
-- Baccarat: [https://tg-baccarat.pages.dev/](https://tg-baccarat.pages.dev/)
 
 ### Other
 
