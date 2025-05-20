@@ -29,6 +29,10 @@ I'm a laid-back yet experienced senior front-end engineer.
 
 - MODNet: <https://huggingface.co/wuchendi/MODNet/>
 
+#### 🌌 Spaces
+
+- MODNet: <https://huggingface.co/spaces/wuchendi/MODNet>
+
 #### 🧠 Application
 
 - AI - Clearify: <https://clearify.pages.dev/>
@@ -41,6 +45,10 @@ I'm a laid-back yet experienced senior front-end engineer.
 ### 🎮 Games
 
 - Baccarat: [https://tg-baccarat.pages.dev/](https://tg-baccarat.pages.dev/)
+
+### 🔐 Password
+
+- Argon2id WASM Demo in Cloudflare Workers: <https://argo2id-wasm.chendi.workers.dev/>
 
 ### [🧩 Lowcode](https://github.com/orgs/cdLab996/projects/1/views/1)
 
