@@ -48,6 +48,7 @@ I'm a laid-back yet experienced senior front-end engineer.
 
 ### 🔐 Password
 
+- SecureVault uses ECIES for secure and efficient file encryption and decryption: <https://secure-vault.pages.dev/>
 - Argon2id WASM Demo in Cloudflare Workers: <https://argo2id-wasm.chendi.workers.dev/>
 
 ### [🧩 Lowcode](https://github.com/orgs/cdLab996/projects/1/views/1)
