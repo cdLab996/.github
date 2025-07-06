@@ -44,7 +44,7 @@ I'm a laid-back yet experienced senior front-end engineer.
 
 ### 🎮 Games
 
-- Baccarat: [https://tg-baccarat.pages.dev/](https://tg-baccarat.pages.dev/)
+- Baccarat: [https://t.me/cdlab_baccarat_bot](https://t.me/cdlab_baccarat_bot)
 
 ### 🔐 Password
 
