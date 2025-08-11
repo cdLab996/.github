@@ -51,6 +51,11 @@ I'm a laid-back yet experienced senior front-end engineer.
 - SecureVault uses ECIES for secure and efficient file encryption and decryption: <https://secure-vault.pages.dev/>
 - Argon2id WASM Demo in Cloudflare Workers: <https://argo2id-wasm.chendi.workers.dev/>
 
+### 🔗 URL Shortener & Telegram
+
+- URL Shortener: <https://github.com/WuChenDi/shortener> - A simple and efficient URL shortening service
+- Telegram Captcha Bot: <https://github.com/WuChenDi/telegram-capcha> - Bot for handling captcha verification in Telegram groups
+
 ### [🧩 Lowcode](https://github.com/orgs/cdLab996/projects/1/views/1)
 
 - Vue 3: [https://lowcode-engine-demo-vue.vercel.app/](https://lowcode-engine-demo-vue.vercel.app/)
