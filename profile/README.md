@@ -38,9 +38,11 @@ I'm a laid-back yet experienced senior front-end engineer.
 - AI - Clearify: <https://clearify.pages.dev/>
 - AI - CCTTS(Text to Speech): <https://cctts.pages.dev/>
 
-### 🎥 Video
+### 🎥 Video (private)
 
-- DDTV(private): [https://ddtv.pages.dev/](https://ddtv.pages.dev/)
+- DDTV: [https://ddtv.pages.dev/](https://ddtv.pages.dev/)
+- LibreTV: [https://lltv.pages.dev/](https://lltv.pages.dev/)
+- MoonTV: [https://aatv.pages.dev/](https://aatv.pages.dev/)
 
 ### 🎮 Games
 
@@ -51,10 +53,14 @@ I'm a laid-back yet experienced senior front-end engineer.
 - SecureVault uses ECIES for secure and efficient file encryption and decryption: <https://secure-vault.pages.dev/>
 - Argon2id WASM Demo in Cloudflare Workers: <https://argo2id-wasm.chendi.workers.dev/>
 
-### 🔗 URL Shortener & Telegram
+### 🔗 URL Shortener
 
 - URL Shortener: <https://github.com/WuChenDi/shortener> - A simple and efficient URL shortening service
+
+## Telegram
+
 - Telegram Captcha Bot: <https://github.com/WuChenDi/telegram-capcha> - Bot for handling captcha verification in Telegram groups
+- Telegram User Info Bot: <https://github.com/WuChenDi/telegram-userinfo-bot> - This bot displays user info when you forward a message to it. 
 
 ### [🧩 Lowcode](https://github.com/orgs/cdLab996/projects/1/views/1)
 
@@ -129,6 +135,8 @@ I'm a laid-back yet experienced senior front-end engineer.
 
 ### 📦 Other
 
+- https://tracker.cdlab.workers.dev/
+- https://cdmisub.pages.dev/
 - https://webcodecs-lab.pages.dev/
 - https://learning-threejs.pages.dev/
 - https://knowledge-card.pages.dev/
