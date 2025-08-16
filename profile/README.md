@@ -60,7 +60,7 @@ I'm a laid-back yet experienced senior front-end engineer.
 ## Telegram
 
 - Telegram Captcha Bot: <https://github.com/WuChenDi/telegram-capcha> - Bot for handling captcha verification in Telegram groups
-- Telegram User Info Bot: <https://github.com/WuChenDi/telegram-userinfo-bot> - This bot displays user info when you forward a message to it. 
+- Telegram User Info Bot: <https://t.me/cdlab_userinfo_bot> - This bot displays user info when you forward a message to it.
 
 ### [🧩 Lowcode](https://github.com/orgs/cdLab996/projects/1/views/1)
 
