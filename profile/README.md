@@ -56,7 +56,7 @@
 
 ### 🔐 Password
 
-- SecureVault uses ECIES for secure and efficient file encryption and decryption: <https://secure-vault.pages.dev/>
+- SecureVault uses ECIES for secure and efficient file encryption and decryption: <https://securec.pages.dev/>
 - Argon2id WASM Demo in Cloudflare Workers: <https://argo2id-wasm.chendi.workers.dev/>
 
 ### 🔗 URL Shortener
@@ -134,6 +134,10 @@
 - https://gid-dapp.pages.dev/
 - https://faucet.gotabit.dev/
 
+<!-- - https://wheelx.fi/
+- https://dev.wheelx.fi/
+- https://docs.wheelx.fi/ -->
+
 #### 💠 DApp
 
 - ETH: [https://online-judge-with-wuchendi.vercel.app/](https://online-judge-with-wuchendi.vercel.app/)
@@ -141,12 +145,17 @@
 
 ### 📦 Other
 
+- https://values.pages.dev/
+- https://repo-changelog.vercel.app/
+- https://puredramatv.pages.dev/
+- https://packer-pro.pages.dev/
+- https://live-user.chendi.workers.dev/
+- https://ns-user.chendi.workers.dev/
 - https://tracker.cdlab.workers.dev/
 - https://cdmisub.pages.dev/
 - https://webcodecs-lab.pages.dev/
 - https://learning-threejs.pages.dev/
 - https://knowledge-card.pages.dev/
-- https://ccbikai-sink.pages.dev/
 - https://ddcase.pages.dev/ (https://ddcase.vercel.app/)
 - https://url-ow.pages.dev/ (https://web.a.app/)
 - https://webrtc-wudi.vercel.app/
