@@ -1,18 +1,24 @@
-# 👋 Hey there，Welcome to cdLab996
+<p align="center">
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/cdLab996/picture-lib/cdLab996/banner.jpeg" alt="cdLab996 Auth Banner">
+  </picture>
+  <h2 align="center">
+    👋 Hey there，Welcome to cdLab996
+  </h2>
 
-A solutions-driven senior frontend engineer focused on building robust, scalable web applications.
-
-Here are some of my open-source projects and personal sites - welcome to explore!
-
-<!-- Consider things from every angle.
-
-## About me
-
-I'm a laid-back yet experienced senior front-end engineer.
-
-🖥️ working w/ JS, TS, Node.js, React, Vue
-
-🖥️ working w/ JS, TS, Node.js, React/Next.js, Vue/Nuxt.js, Native/Flutter, miniProgram(Taro/Uni-app/Telegram), Linux -->
+  <p align="center">
+    Here are some of my open-source projects and personal sites - welcome to explore!
+    <br />
+    <a href="https://cdlab996.vercel.app/"><strong>Learn more »</strong></a>
+    <br />
+    <br />
+    <a href="cdhj996@gmail.com">Email</a>
+    ·
+    <a href="https://t.me/wuchendi">Telegram</a>
+    ·
+    <a href="https://github.com/WuChenDi">Owner</a>
+  </p>
+</p>
 
 ## 🚀 Featured Projects
 
