@@ -44,11 +44,12 @@
 - AI - Clearify: <https://clearify.pages.dev/>
 - AI - CCTTS(Text to Speech): <https://cctts.pages.dev/>
 
-### 🎥 Video (private)
+### 🎥 Video
 
-- DDTV: [https://ddtv.pages.dev/](https://ddtv.pages.dev/)
-- LibreTV: [https://lltv.pages.dev/](https://lltv.pages.dev/)
-- MoonTV: [https://aatv.pages.dev/](https://aatv.pages.dev/)
+- WebPlayer: [https://byplay.pages.dev/](https://byplay.pages.dev/)
+- DDTV(private): [https://ddtv.pages.dev/](https://ddtv.pages.dev/)
+<!-- - LibreTV: [https://lltv.pages.dev/](https://lltv.pages.dev/)
+- MoonTV: [https://aatv.pages.dev/](https://aatv.pages.dev/) -->
 
 ### 🎮 Games
 
