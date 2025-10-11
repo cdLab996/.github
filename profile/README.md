@@ -41,8 +41,8 @@
 
 #### 🧠 Application
 
-- AI - Clearify: <https://clearify.pages.dev/>
-- AI - CCTTS(Text to Speech): <https://cctts.pages.dev/>
+- AI - Clearify: 
+- AI - CCTTS(Text to Speech): 
 
 ### 🎥 Video
 
@@ -148,7 +148,7 @@
 
 - https://values.pages.dev/
 - https://repo-changelog.vercel.app/
-- https://puredramatv.pages.dev/
+- https://www.puredramatv.com/ (https://puredramatv.pages.dev/)
 - https://packer-pro.pages.dev/
 - https://live-user.chendi.workers.dev/
 - https://ns-user.chendi.workers.dev/
