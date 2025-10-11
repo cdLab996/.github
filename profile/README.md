@@ -12,7 +12,7 @@
     <a href="https://cdlab996.vercel.app/"><strong>Learn more »</strong></a>
     <br />
     <br />
-    <a href="cdhj996@gmail.com">Email</a>
+    <a href="mailto:cdhj996@gmail.com">Email</a>
     ·
     <a href="https://t.me/wuchendi">Telegram</a>
     ·
