@@ -18,6 +18,11 @@
     ·
     <a href="https://github.com/WuChenDi">Owner</a>
   </p>
+  <p align="center">
+    <picture>
+      <code><img height="20" src="https://komarev.com/ghpvc/?username=cdLab996"></code>
+    </picture>
+  </p>
 </p>
 
 ## 🚀 Featured Projects
@@ -169,5 +174,3 @@
 - https://sku-path-finder.vercel.app/
 - https://wuchendi.github.io/vue-pages/
 - https://wuchendi.gitee.io/animate/
-
-<div><img height="20" src="https://komarev.com/ghpvc/?username=cdLab996"></div>
