@@ -46,8 +46,8 @@
 
 #### 🧠 Application
 
-- AI - Clearify: 
-- AI - CCTTS(Text to Speech): 
+- AI - Clearify: <https://clearify.pages.dev/>
+- AI - CCTTS(Text to Speech): <https://cctts.pages.dev/>
 
 ### 🎥 Video
 
