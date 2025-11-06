@@ -173,4 +173,7 @@
 - https://vite-vue2-template.vercel.app/
 - https://sku-path-finder.vercel.app/
 - https://wuchendi.github.io/vue-pages/
-- https://wuchendi.gitee.io/animate/
+- ~~https://wuchendi.gitee.io/animate/~~
+- https://vueshops.pages.dev/
+- https://wuchendi.github.io/PC-cdxfc/
+- https://mccll.pages.dev/
