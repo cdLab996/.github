@@ -30,9 +30,10 @@
 ### 🧱 ONESELF
 
 <!-- - https://cdlab996-website.vercel.app/ (http://wudi.rf.gd/) -->
-- BLOGS: <https://notes-wudi.pages.dev/> (<https://notes-wudi.vercel.app/>)
+<!-- - BLOGS: <https://notes-wudi.pages.dev/> (<https://notes-wudi.vercel.app/>) -->
+- BLOGS: <https://wcd.pages.dev/> (old：<https://notes-wudi.pages.app/>)
 - cdlab996: <https://cdlab996.vercel.app/>
-- Image Gallery: <https://gallery-wudi.vercel.app/>
+- Image Gallery: <https://byshot.pages.dev/>
 
 ### 🤖 AI
 
@@ -47,12 +48,13 @@
 #### 🧠 Application
 
 - AI - Clearify: <https://clearify.pages.dev/>
-- AI - CCTTS(Text to Speech): <https://cctts.pages.dev/>
+- AI - Text to Speech: <https://bytts.pages.dev/>
 
 ### 🎥 Video
 
 - WebPlayer: [https://byplay.pages.dev/](https://byplay.pages.dev/)
-- DDTV(private): [https://ddtv.pages.dev/](https://ddtv.pages.dev/)
+- Flox(aa.2026): [https://flox.pages.dev/](https://flox.pages.dev/)
+<!-- - DDTV(private): [https://ddtv.pages.dev/](https://ddtv.pages.dev/) -->
 <!-- - LibreTV: [https://lltv.pages.dev/](https://lltv.pages.dev/)
 - MoonTV: [https://aatv.pages.dev/](https://aatv.pages.dev/) -->
 
@@ -67,7 +69,7 @@
 
 ### 🔗 URL Shortener
 
-- URL Shortener: <https://github.com/WuChenDi/shortener> - A simple and efficient URL shortening service
+- URL Shortener: https://flnk.cdlab.workers.dev/
 
 ## Telegram
 
@@ -153,9 +155,9 @@
 
 - https://values.pages.dev/
 - https://repo-changelog.vercel.app/
-- https://www.puredramatv.com/ (https://puredramatv.pages.dev/)
+- https://puredramatv.pages.dev/ (~~https://www.puredramatv.com/~~)
 - https://packer-pro.pages.dev/
-- https://live-user.chendi.workers.dev/
+- https://live-user.cdlab.workers.dev/
 - https://ns-user.chendi.workers.dev/
 - https://tracker.cdlab.workers.dev/
 - https://cdmisub.pages.dev/
